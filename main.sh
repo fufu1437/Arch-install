@@ -12,4 +12,7 @@ if [ $? -ne 0 ]; then
     fi
 fi
 
+lsblk
+
+
 
