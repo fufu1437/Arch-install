@@ -3,3 +3,5 @@
 !/LICENSE
 !/README
 !/.gitignore
+!/main.py
+!/main.sh
